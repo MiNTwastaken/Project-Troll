@@ -6,8 +6,8 @@ Project Troll
 	- Palaist
 	- Atvērt pārlūkprogrammu
 	- Atvērt saiti
-  - Nolādēt failu
-  - Atvērt failu
+  	- Nolādēt failu
+  	- Atvērt failu
 ## Izmantotās tehnoloģijas
 	- C++
 	- SFML library
