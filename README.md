@@ -8,12 +8,16 @@ Project Troll
 	Bilde tiek izvēlēta pēc nejaušības.
 	ar Iepriekš iedotiem datiem tiek izveidots video, kas savieno informāciju veselā video.
 	palaiž uz pilnekrānu
+	
+	2. variants
+	
+	viss tas pats tikai bildes ir saglabātas folderī
 ## Galvenās funkcijas
 	- Palaist
 	- Atvērt pārlūkprogrammu
 	- Atvērt saiti
   	- Nolādēt failu
-  	- Atvērt failu
+  	- Atvērt failu kā video
 ## Izmantotās tehnoloģijas
 	- C++
 	- SFML library
